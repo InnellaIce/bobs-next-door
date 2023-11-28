@@ -1,7 +1,7 @@
 import React from "react"
 import Store from "./Store"
 
-function StoreList() {
+function StoreList({storeData}) {
 
 
     return(
