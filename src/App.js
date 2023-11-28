@@ -2,23 +2,26 @@ import './App.css';
 import Search from './components/Search'
 import NewStoreForm from './components/NewStoreForm';
 import StoreList from './components/StoreList';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 //getting the db json
 const url =  "http://localhost:8085/stores"
 
 //fetching the store data
 function App() {
-  const [store, setStore] = useState("")
+  const [store, setStore] = useState([])
+  useEffect(() => {
     fetch(url)
-      .then(response => response.json())
+      .then(res => res.json())
       .then(data => {
-        setStore(data)
-
+        setStore(data)   
       })
+
+  }, 
+  [])
   
   
-  
+  //console.log(store)
   
   
   
