@@ -1,49 +1,76 @@
 {
-"stores": [
-        {
-        "id": 1,
-        "name": "P.F.E.T.A",
-        "image": "https://bobsburgers-api.herokuapp.com/images/storeNextDoor/1.jpg",
-        "season": 1,
-        "episode": 1,
-        "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/1",
-        "url": "https://bobsburgers-api.herokuapp.com/storeNextDoor/1"
-        },
-        {
-        "id": 2,
-        "name": "Trot's All Natural Fertilizer",
-        "image": "https://bobsburgers-api.herokuapp.com/images/storeNextDoor/2.jpg",
-        "season": 1,
-        "episode": 2,
-        "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/2",
-        "url": "https://bobsburgers-api.herokuapp.com/storeNextDoor/2"
-        },
-        {
-        "id": 3,
-        "name": "RENT REDUCED: Crime Scene Special",
-        "image": "https://bobsburgers-api.herokuapp.com/images/storeNextDoor/3.jpg",
-        "season": 1,
-        "episode": 3,
-        "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/3",
-        "url": "https://bobsburgers-api.herokuapp.com/storeNextDoor/3"
-        },
-        {
-        "id": 4,
-        "name": "Meth I Can! Methadone Clinic",
-        "image": "https://bobsburgers-api.herokuapp.com/images/storeNextDoor/4.jpg",
-        "season": 1,
-        "episode": 4,
-        "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/4",
-        "url": "https://bobsburgers-api.herokuapp.com/storeNextDoor/4"
-        },
-        {
-        "id": 5,
-        "name": "SYNTHESIZERS! SYNTHESIZERS! SYNTHESIZERS!",
-        "image": "https://bobsburgers-api.herokuapp.com/images/storeNextDoor/5.jpg",
-        "season": 1,
-        "episode": 5,
-        "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/5",
-        "url": "https://bobsburgers-api.herokuapp.com/storeNextDoor/5"
-        }
-    ]
+  "stores": [
+    {
+      "id": 1,
+      "name": "P.F.E.T.A",
+      "image": "https://bobsburgers-api.herokuapp.com/images/storeNextDoor/1.jpg",
+      "season": 1,
+      "episode": 1,
+      "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/1",
+      "url": "https://bobsburgers-api.herokuapp.com/storeNextDoor/1"
+    },
+    {
+      "id": 2,
+      "name": "Trot's All Natural Fertilizer",
+      "image": "https://bobsburgers-api.herokuapp.com/images/storeNextDoor/2.jpg",
+      "season": 1,
+      "episode": 2,
+      "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/2",
+      "url": "https://bobsburgers-api.herokuapp.com/storeNextDoor/2"
+    },
+    {
+      "id": 3,
+      "name": "RENT REDUCED: Crime Scene Special",
+      "image": "https://bobsburgers-api.herokuapp.com/images/storeNextDoor/3.jpg",
+      "season": 1,
+      "episode": 3,
+      "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/3",
+      "url": "https://bobsburgers-api.herokuapp.com/storeNextDoor/3"
+    },
+    {
+      "id": 4,
+      "name": "Meth I Can! Methadone Clinic",
+      "image": "https://bobsburgers-api.herokuapp.com/images/storeNextDoor/4.jpg",
+      "season": 1,
+      "episode": 4,
+      "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/4",
+      "url": "https://bobsburgers-api.herokuapp.com/storeNextDoor/4"
+    },
+    {
+      "id": 5,
+      "name": "SYNTHESIZERS! SYNTHESIZERS! SYNTHESIZERS!",
+      "image": "https://bobsburgers-api.herokuapp.com/images/storeNextDoor/5.jpg",
+      "season": 1,
+      "episode": 5,
+      "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/5",
+      "url": "https://bobsburgers-api.herokuapp.com/storeNextDoor/5"
+    },
+    {
+      "name": "BullsEye",
+      "image": "https://www.pngmart.com/files/17/Disney-Bullseye-Toy-Story-PNG-Image.png",
+      "season": "1",
+      "episode": "3",
+      "episodeUrl": "",
+      "url": "",
+      "id": 6
+    },
+    {
+      "name": "Gozilla",
+      "image": "https://media.istockphoto.com/id/494250120/photo/chicken-noodles-soup.jpg?s=2048x2048&w=is&k=20&c=YG9Vt3l5jKZQQEzoyZdbIOBEszQMEYXcRnbiHlX8x2k=",
+      "season": "2",
+      "episode": "3",
+      "episodeUrl": "",
+      "url": "",
+      "id": 7
+    },
+    {
+      "name": "Test",
+      "image": "ee",
+      "season": "2",
+      "episode": "4",
+      "episodeUrl": "",
+      "url": "",
+      "id": 8
+    }
+  ]
 }
